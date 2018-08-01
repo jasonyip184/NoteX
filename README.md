@@ -9,5 +9,5 @@ NoteX uses Computer Vision and Speech Recognition to convert handwritten notes a
 ### Click the image below to watch the demo 
 [![Watch the video](Screen.png)](https://youtu.be/FHjdr_f4MgA)
 
-View our project log
-[Link](https://docs.google.com/document/d/1BtSs1stdZhAFSlECQ9py-YQqCzVGBf9OUjpF15Ut7_4/edit?usp=sharing).
+[View our project log and development in detail](https://docs.google.com/document/d/1BtSs1stdZhAFSlECQ9py-YQqCzVGBf9OUjpF15Ut7_4/edit?usp=sharing).
+
